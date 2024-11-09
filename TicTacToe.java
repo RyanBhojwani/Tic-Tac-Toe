@@ -1,9 +1,3 @@
-/* Project 1: Tic-Tac-Toe
- * Author: Ryan Bhojwani
- * File: TicTacToe.java
- * Date: 6/23/2024
- */
-
 import java.util.Scanner;
 
 public class TicTacToe {
