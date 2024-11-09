@@ -4,8 +4,6 @@
  * Date: 6/23/2024
  */
 
-package tictactoe;
-
 import java.util.Scanner;
 
 public class TicTacToe {
